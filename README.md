@@ -40,6 +40,8 @@ __Admin Side Pages:__
 
 <img width="185" alt="Image2" src="https://user-images.githubusercontent.com/75938203/127144218-eef48609-d206-479d-a46f-018dd7c25bd4.png">
 
+__Add, Update and Delete Student Details:__
+
 <img width="185" alt="Image3" src="https://user-images.githubusercontent.com/75938203/127144223-7f86ac7c-55a9-49bc-a863-bd5f7fb6562c.png">
 
 <img width="181" alt="Image4" src="https://user-images.githubusercontent.com/75938203/127144225-8dbbb303-2ef2-4e9c-80c6-44e81c26ef04.png">
@@ -59,6 +61,8 @@ __Admin Side Pages:__
 <img width="176" alt="Image7 1" src="https://user-images.githubusercontent.com/75938203/127146670-7558d578-711b-4090-9b09-7e71cd351de4.png">
 
 <img width="185" alt="Image7 2" src="https://user-images.githubusercontent.com/75938203/127146692-b2cf4e8d-506a-4502-a8ed-0d42b690a40f.png">
+
+__Notice Board Details:__
 
 <img width="181" alt="Image8" src="https://user-images.githubusercontent.com/75938203/127145994-d888add8-8ee8-4342-9910-d005a7c52799.png">
 
