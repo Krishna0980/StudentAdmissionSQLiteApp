@@ -56,16 +56,19 @@ __Admin Side Pages:__
 
 <img width="186" alt="Image7 5" src="https://user-images.githubusercontent.com/75938203/127145882-d84c85c5-f62c-4d95-9269-b2868fd219c6.png">
 
+<img width="176" alt="Image7 1" src="https://user-images.githubusercontent.com/75938203/127146670-7558d578-711b-4090-9b09-7e71cd351de4.png">
+
+<img width="185" alt="Image7 2" src="https://user-images.githubusercontent.com/75938203/127146692-b2cf4e8d-506a-4502-a8ed-0d42b690a40f.png">
+
 <img width="181" alt="Image8" src="https://user-images.githubusercontent.com/75938203/127145994-d888add8-8ee8-4342-9910-d005a7c52799.png">
 
 <img width="182" alt="Image9" src="https://user-images.githubusercontent.com/75938203/127145999-e1ffc031-2766-47f1-ba46-3a4950dbac44.png">
 
 <img width="184" alt="Image11" src="https://user-images.githubusercontent.com/75938203/127146057-9352f617-89e3-4b10-b1ee-ec766a804f44.png">
 
-<img width="176" alt="Image7 1" src="https://user-images.githubusercontent.com/75938203/127146670-7558d578-711b-4090-9b09-7e71cd351de4.png">
+<img width="184" alt="Image18" src="https://user-images.githubusercontent.com/75938203/127146911-90023f39-97f2-4469-b283-082f29dcd060.png">
 
-<img width="185" alt="Image7 2" src="https://user-images.githubusercontent.com/75938203/127146692-b2cf4e8d-506a-4502-a8ed-0d42b690a40f.png">
-
+<img width="185" alt="Image19" src="https://user-images.githubusercontent.com/75938203/127146916-e172c190-6970-45a0-aaaa-a89a838319bf.png">
 
 __Student Side Pages:__
 
