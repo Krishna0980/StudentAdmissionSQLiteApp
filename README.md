@@ -50,9 +50,9 @@ __Admin Side Pages:__
 
 <img width="176" alt="Image7" src="https://user-images.githubusercontent.com/75938203/127144230-b4ccb872-588f-4801-84ce-c7d137ae312a.png">
 
-<img width="185" alt="Image7 3" src="https://user-images.githubusercontent.com/75938203/127145688-1c6c03a2-9650-4b6c-8736-f4d3062c51d3.png">
-
 <img width="181" alt="Image7 4" src="https://user-images.githubusercontent.com/75938203/127145691-006ec6cf-b391-4112-b907-8bd06596946c.png">
+
+<img width="185" alt="Image7 3" src="https://user-images.githubusercontent.com/75938203/127145688-1c6c03a2-9650-4b6c-8736-f4d3062c51d3.png">
 
 <img width="186" alt="Image7 5" src="https://user-images.githubusercontent.com/75938203/127145882-d84c85c5-f62c-4d95-9269-b2868fd219c6.png">
 
