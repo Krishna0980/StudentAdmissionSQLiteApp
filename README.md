@@ -62,6 +62,11 @@ __Admin Side Pages:__
 
 <img width="184" alt="Image11" src="https://user-images.githubusercontent.com/75938203/127146057-9352f617-89e3-4b10-b1ee-ec766a804f44.png">
 
+<img width="176" alt="Image7 1" src="https://user-images.githubusercontent.com/75938203/127146670-7558d578-711b-4090-9b09-7e71cd351de4.png">
+
+<img width="185" alt="Image7 2" src="https://user-images.githubusercontent.com/75938203/127146692-b2cf4e8d-506a-4502-a8ed-0d42b690a40f.png">
+
+
 __Student Side Pages:__
 
 <img width="185" alt="Image12" src="https://user-images.githubusercontent.com/75938203/127146102-700034e5-cc62-429e-bdb2-b3ded176f8d9.png">
